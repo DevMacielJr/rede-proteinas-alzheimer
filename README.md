@@ -18,7 +18,24 @@ A doença de Alzheimer está associada a alterações em diferentes proteínas. 
 
 Os dados serão obtidos a partir de fontes públicas de associações entre genes e doença e de interações funcionais entre proteínas.
 
-As fontes, os procedimentos de coleta e as etapas de limpeza serão documentados durante o desenvolvimento do projeto.
+### Fonte 1 — Genes associados à doença de Alzheimer
+
+* **Plataforma:** Open Targets Platform.
+* **Doença:** Alzheimer disease.
+* **Identificador da doença:** `MONDO_0004975`.
+* **Página dos dados:** https://platform.opentargets.org/disease/MONDO_0004975/associations
+* **Data de acesso:** 14/10/2026.
+* **Critério de seleção:** seleção dos 200 genes com os maiores valores de `Association Score`.
+
+O conjunto selecionado será salvo no arquivo `dados/genes_alzheimer.csv`.
+
+### Fonte 2 — Interações entre proteínas
+
+* **Plataforma:** STRING Database.
+* **Página da fonte:** https://string-db.org/
+* **Finalidade:** obter as interações funcionais entre as proteínas correspondentes aos genes selecionados.
+
+Os procedimentos de coleta, os critérios de filtragem e as etapas de limpeza serão documentados durante o desenvolvimento do projeto.
 
 ## Modelagem da rede
 
