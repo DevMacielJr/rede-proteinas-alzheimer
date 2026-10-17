@@ -8,9 +8,7 @@ Edson Maciel de Barros Junior
 
 ## Vídeo
 
-> https://drive.google.com/file/d/1NpAlp0DTe1-18BBkrEbT-otdgsuK05OF/view?usp=drive_link)
-
-https://youtu.be/...
+> https://drive.google.com/file/d/1NpAlp0DTe1-18BBkrEbT-otdgsuK05OF/view?usp=sharing
 
 ## Problema e pergunta
 
