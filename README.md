@@ -4,7 +4,7 @@ Projeto da Unidade 01 de Algoritmos e Estrutura de Dados II (Grafos), UFRN.
 
 ## Integrantes
 
-Edson Maciel Júnior
+Edson Maciel de Barros Junior
 
 ## Vídeo
 
