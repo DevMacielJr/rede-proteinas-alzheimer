@@ -8,7 +8,7 @@ Edson Maciel de Barros Junior
 
 ## Vídeo
 
-> **PENDENTE:** colar aqui o link do YouTube (vídeo não listado, até 15 minutos, com a câmera aberta durante todo o vídeo).
+> https://drive.google.com/file/d/1NpAlp0DTe1-18BBkrEbT-otdgsuK05OF/view?usp=drive_link)
 
 https://youtu.be/...
 
